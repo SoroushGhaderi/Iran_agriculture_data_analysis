@@ -32,7 +32,7 @@ We gathering all of the data from Iran in this repo and analyzed some of them as
   ما همه داده های ایران را در این رپو جمع آوری کرده ایم و برخی از آنها را همانطور که می بینید تجزیه و تحلیل کردیم
   و این روند برای بقیه آن ها نیز ادامه دارد 
 
-## Analyz 
+## Analyze
 
 we choose 3 datasets from these datasets for the first step of our analyzing process :
 
